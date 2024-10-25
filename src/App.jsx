@@ -1,7 +1,7 @@
 export default function App(){
   return(
     <div className="container">
-      <img src="./public/stars.jpg" alt="" />
+      <img src="./stars.jpg" alt="" />
 
       <div className="text-content">
         <strong><h1>Pôster: Star Wars (1977)</h1></strong>
